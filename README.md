@@ -4,7 +4,7 @@ Team 2 Repository
 
 This README explains how to get started with this repository.
 
-This repository contains code written by Team Niger for the Dufuna-CodeCamp 2020 first Hackathon.
+This repository contains code written by Team 2 for the Dufuna-CodeCamp September 2021 Hackathon.
 
 ## How to get started
 - Clone this repository.
